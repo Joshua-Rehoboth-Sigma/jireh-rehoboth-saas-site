@@ -76,7 +76,7 @@ export function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start gap-3">
                 <Mail className="h-5 w-5 text-primary shrink-0" />
-                <span className="text-sm text-muted-foreground">contact@jirehrehoboth.com</span>
+                <span className="text-sm text-muted-foreground">joshuaezekiel334@gmail.com</span>
               </li>
               <li className="flex items-start gap-3">
                 <Phone className="h-5 w-5 text-primary shrink-0" />
@@ -84,7 +84,7 @@ export function Footer() {
               </li>
               <li className="flex items-start gap-3">
                 <MapPin className="h-5 w-5 text-primary shrink-0" />
-                <span className="text-sm text-muted-foreground">123 Analytics St, Data City, ST 12345</span>
+                <span className="text-sm text-muted-foreground">Rehoboth House, Nelamangala, Bangalore, Karnataka- 562132</span>
               </li>
             </ul>
           </div>

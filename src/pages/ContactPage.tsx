@@ -70,7 +70,7 @@ export function ContactPage() {
                   </div>
                   <div className="space-y-1">
                     <p className="font-bold text-sm tracking-widest uppercase text-primary/60">Email</p>
-                    <p className="text-lg font-medium">contact@jirehrehoboth.com</p>
+                    <p className="text-lg font-medium">joshuaezekiel334@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -88,7 +88,10 @@ export function ContactPage() {
                   </div>
                   <div className="space-y-1">
                     <p className="font-bold text-sm tracking-widest uppercase text-primary/60">Office</p>
-                    <p className="text-lg font-medium leading-relaxed">123 Analytics St, Data City, ST 12345</p>
+                    <p className="text-lg font-medium leading-relaxed">
+                      Rehoboth House, Nelamangala<br />
+                      Bangalore, Karnataka- 562132
+                    </p>
                   </div>
                 </div>
               </div>
